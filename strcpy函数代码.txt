@@ -1,4 +1,4 @@
-/*StcCpy代码实验*/
+/*StcCpy代码实现*/
 char* StrCpyŁ¨char* srcŁŠ
 {
   int len,i,j;
