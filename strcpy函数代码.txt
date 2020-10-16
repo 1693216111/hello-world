@@ -9,3 +9,6 @@ char* StrCpyŁ¨char* srcŁŠ
   a[len]='\0';
 return a;
 }
+/**
+ 远程edit
+**/
