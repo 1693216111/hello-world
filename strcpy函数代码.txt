@@ -1,4 +1,5 @@
-char* StrCpy��char* src��
+/*StcCpy代码实验*/
+char* StrCpyŁ¨char* srcŁŠ
 {
   int len,i,j;
   len=src.length;
